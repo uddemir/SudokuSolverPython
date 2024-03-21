@@ -1,4 +1,4 @@
-# SudokuSolverPython  // Sudoku Çözücü
+# SudokuSolverPython  // Sudoku Çözücü // Python İle Geliştirildi
 Python ile temel sudoku kodlama denemesi. Türkçe açıklama satırları 
 
 Boş Sudoku Tahtassı
